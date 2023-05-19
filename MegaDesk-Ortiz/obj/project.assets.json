@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alexis Ortiz\\.nuget\\packages\\": {}
+    "C:\\Users\\legra\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexis Ortiz\\Source\\Repos\\Grande1988\\CSE325-Group7\\MegaDesk-Ortiz\\MegaDesk2.0.csproj",
+      "projectUniqueName": "C:\\Users\\legra\\Source\\Repos\\CSE325-Group7\\MegaDesk-Ortiz\\MegaDesk2.0.csproj",
       "projectName": "MegaDesk2.0",
-      "projectPath": "C:\\Users\\Alexis Ortiz\\Source\\Repos\\Grande1988\\CSE325-Group7\\MegaDesk-Ortiz\\MegaDesk2.0.csproj",
-      "packagesPath": "C:\\Users\\Alexis Ortiz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexis Ortiz\\Source\\Repos\\Grande1988\\CSE325-Group7\\MegaDesk-Ortiz\\obj\\",
+      "projectPath": "C:\\Users\\legra\\Source\\Repos\\CSE325-Group7\\MegaDesk-Ortiz\\MegaDesk2.0.csproj",
+      "packagesPath": "C:\\Users\\legra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\legra\\Source\\Repos\\CSE325-Group7\\MegaDesk-Ortiz\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Alexis Ortiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\legra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

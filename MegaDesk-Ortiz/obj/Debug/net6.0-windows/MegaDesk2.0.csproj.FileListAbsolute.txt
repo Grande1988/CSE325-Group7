@@ -19,3 +19,25 @@ C:\Users\Alexis Ortiz\Source\Repos\Grande1988\CSE325-Group7\MegaDesk-Ortiz\obj\D
 C:\Users\Alexis Ortiz\Source\Repos\Grande1988\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.pdb
 C:\Users\Alexis Ortiz\Source\Repos\Grande1988\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.genruntimeconfig.cache
 C:\Users\Alexis Ortiz\Source\Repos\Grande1988\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\ref\MegaDesk2.0.dll
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\bin\Debug\net6.0-windows\MegaDesk2.0.exe
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\bin\Debug\net6.0-windows\MegaDesk2.0.deps.json
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\bin\Debug\net6.0-windows\MegaDesk2.0.runtimeconfig.json
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\bin\Debug\net6.0-windows\MegaDesk2.0.dll
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\bin\Debug\net6.0-windows\MegaDesk2.0.pdb
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.csproj.AssemblyReference.cache
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk_Ortiz.AddQuoteForm.resources
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk_Ortiz.DisplayQuoteForm.resources
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk_Ortiz.MainMenu.resources
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk_Ortiz.SearchQuotesForm.resources
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk_Ortiz.ViewAllQuotesForm.resources
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.csproj.GenerateResource.cache
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.AssemblyInfoInputs.cache
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.AssemblyInfo.cs
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.csproj.CoreCompileInputs.cache
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.dll
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\refint\MegaDesk2.0.dll
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.pdb
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.genruntimeconfig.cache
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\ref\MegaDesk2.0.dll
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk_Ortiz.Properties.Resources.resources
