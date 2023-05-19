@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mMMCz5YcSDGK8GohCeEfAS6flYhxM5M7pJ+vUumc5LvKrJmSchP35g81cEY5rJ9DyTqfWJzlpNT2inqesgJG8w==",
+  "dgSpecHash": "gSApojjqnPTC8fK3hBvWidda1e0USDiWhNS8oX6c8Dca+lLmtwht0lb4gjatElh9aHO4fokJtulvLqch+AmQMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\legra\\Source\\Repos\\CSE325-Group7\\MegaDesk-Ortiz\\MegaDesk2.0.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\legra\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

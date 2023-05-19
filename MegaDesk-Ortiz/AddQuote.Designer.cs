@@ -42,7 +42,7 @@
          numericUpDown1 = new NumericUpDown();
          numericUpDown2 = new NumericUpDown();
          numericUpDown3 = new NumericUpDown();
-         AddQuoteBtn = new Button();
+         SubmitBtn = new Button();
          ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
          ((System.ComponentModel.ISupportInitialize)numericUpDown2).BeginInit();
          ((System.ComponentModel.ISupportInitialize)numericUpDown3).BeginInit();
@@ -181,22 +181,22 @@
          numericUpDown3.Size = new Size(57, 27);
          numericUpDown3.TabIndex = 16;
          // 
-         // AddQuoteBtn
+         // SubmitBtn
          // 
-         AddQuoteBtn.Location = new Point(447, 374);
-         AddQuoteBtn.Name = "AddQuoteBtn";
-         AddQuoteBtn.Size = new Size(94, 29);
-         AddQuoteBtn.TabIndex = 17;
-         AddQuoteBtn.Text = "Add Quote";
-         AddQuoteBtn.UseVisualStyleBackColor = true;
-         AddQuoteBtn.Click += button1_Click;
+         SubmitBtn.Location = new Point(447, 374);
+         SubmitBtn.Name = "SubmitBtn";
+         SubmitBtn.Size = new Size(94, 29);
+         SubmitBtn.TabIndex = 17;
+         SubmitBtn.Text = "Submit";
+         SubmitBtn.UseVisualStyleBackColor = true;
+         SubmitBtn.Click += button1_Click;
          // 
          // AddQuoteForm
          // 
          AutoScaleDimensions = new SizeF(8F, 20F);
          AutoScaleMode = AutoScaleMode.Font;
          ClientSize = new Size(553, 415);
-         Controls.Add(AddQuoteBtn);
+         Controls.Add(SubmitBtn);
          Controls.Add(numericUpDown3);
          Controls.Add(numericUpDown2);
          Controls.Add(numericUpDown1);
@@ -238,6 +238,6 @@
       private NumericUpDown numericUpDown1;
       private NumericUpDown numericUpDown2;
       private NumericUpDown numericUpDown3;
-      private Button AddQuoteBtn;
+      private Button SubmitBtn;
    }
 }

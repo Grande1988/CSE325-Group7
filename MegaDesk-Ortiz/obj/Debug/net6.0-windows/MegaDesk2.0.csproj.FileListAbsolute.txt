@@ -41,3 +41,5 @@ C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-window
 C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.genruntimeconfig.cache
 C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\ref\MegaDesk2.0.dll
 C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk_Ortiz.Properties.Resources.resources
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\legra\Source\Repos\CSE325-Group7\MegaDesk-Ortiz\obj\Debug\net6.0-windows\MegaDesk2.0.csproj.CopyComplete
