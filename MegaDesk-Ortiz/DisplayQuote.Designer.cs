@@ -33,6 +33,7 @@
          label3 = new Label();
          label4 = new Label();
          label5 = new Label();
+         MenuBtn = new Button();
          SuspendLayout();
          // 
          // label1
@@ -80,11 +81,22 @@
          label5.TabIndex = 4;
          label5.Text = "Drawers Cost:";
          // 
+         // MenuBtn
+         // 
+         MenuBtn.Location = new Point(447, 374);
+         MenuBtn.Name = "MenuBtn";
+         MenuBtn.Size = new Size(94, 29);
+         MenuBtn.TabIndex = 5;
+         MenuBtn.Text = "Menu";
+         MenuBtn.UseVisualStyleBackColor = true;
+         MenuBtn.Click += button1_Click;
+         // 
          // DisplayQuoteForm
          // 
          AutoScaleDimensions = new SizeF(8F, 20F);
          AutoScaleMode = AutoScaleMode.Font;
          ClientSize = new Size(553, 415);
+         Controls.Add(MenuBtn);
          Controls.Add(label5);
          Controls.Add(label4);
          Controls.Add(label3);
@@ -104,5 +116,6 @@
       private Label label3;
       private Label label4;
       private Label label5;
+      private Button MenuBtn;
    }
 }

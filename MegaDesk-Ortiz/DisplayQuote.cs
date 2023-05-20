@@ -16,5 +16,12 @@ namespace MegaDesk_Ortiz
       {
          InitializeComponent();
       }
+
+      private void button1_Click(object sender, EventArgs e)
+      {
+         MainMenu viewMainMenu = (MainMenu)Tag;
+         viewMainMenu.Show();
+         Close();
+      }
    }
 }
