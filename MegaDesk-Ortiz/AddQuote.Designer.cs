@@ -187,7 +187,7 @@
          SubmitBtn.Name = "SubmitBtn";
          SubmitBtn.Size = new Size(94, 29);
          SubmitBtn.TabIndex = 17;
-         SubmitBtn.Text = "Submit";
+         SubmitBtn.Text = "Save Quote";
          SubmitBtn.UseVisualStyleBackColor = true;
          SubmitBtn.Click += button1_Click;
          // 

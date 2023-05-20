@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace MegaDesk_Ortiz
 {
-    public partial class DisplayQuoteForm : Form
-    {
-        public DisplayQuoteForm()
-        {
-            InitializeComponent();
-        }
-    }
+   public partial class DisplayQuoteForm : Form
+   {
+      public DisplayQuoteForm()
+      {
+         InitializeComponent();
+      }
+   }
 }

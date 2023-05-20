@@ -66,7 +66,9 @@ namespace MegaDesk_Ortiz
 
       private void button1_Click(object sender, EventArgs e)
       {
-        
+         DisplayQuoteForm displayQuoteForm = new DisplayQuoteForm();
+         displayQuoteForm.Show();
+         Close();
       }
    }
 }
